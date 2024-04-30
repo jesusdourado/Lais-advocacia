@@ -18,8 +18,8 @@
 
 .profile-image {
     height: 500px;
-    box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
-    clip-path: inset(-15x -15px 0px 0px);
+    box-shadow: 0 0 10px 5px rgba(0,0,0,1.0);
+    clip-path: inset(-20px -20px 0px -20px);
 }
 
 .service-item {
